@@ -47,7 +47,7 @@ dataset with more than 200K celebrity images.
 ## Training
 Download celabA dataset and add the images' folder in ```src/celb_dataset```
 if you rename the root folder of the dataset don't forget to change the ````training_root_folder````
-variable in [config.py](https://github.com/zaghlol94/GAN-MNIST/blob/main/src/config.py)
+variable in [config.py](https://github.com/zaghlol94/DCGAN-pytorch/blob/main/src/config.py)
 ```commandline
 cd src
 python train.py
