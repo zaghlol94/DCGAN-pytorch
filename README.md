@@ -12,7 +12,7 @@ GANs, also known as Generative Adversarial Networks, are one of the most fascina
 Yann LeCun saw GANs as "the most fascinating idea in the last 10 years in ML" when Ian Goodfellow and Yoshua Bengio from the University of Montreal first unveiled them in 2014.
 GANS are frequently used to make deep fake films, improve the quality of images, face swap, design gaming characters, and much more. 
 # Setup and Generate
-ode is developed under following library dependencies
+This code is developed under following library dependencies
 ```commandline
 python 3.8
 torch 1.12.0
