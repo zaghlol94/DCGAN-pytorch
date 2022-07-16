@@ -4,6 +4,8 @@ This repo is a pytorch implementation of
 Deep Convolutional Generative Adversarial 
 Networks(DCGAN)](https://arxiv.org/abs/1511.06434) on [celbA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 ![](imgs/dcgan.png)
+
+
 GANs, also known as Generative Adversarial Networks, are one of the most fascinating new developments in deep learning.
 Yann LeCun saw GANs as "the most fascinating idea in the last 10 years in ML" when Ian Goodfellow and Yoshua Bengio from the University of Montreal first unveiled them in 2014.
 GANS are frequently used to make deep fake films, improve the quality of images, face swap, design gaming characters, and much more. 
